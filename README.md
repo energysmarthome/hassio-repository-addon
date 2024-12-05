@@ -6,7 +6,7 @@ Ennek a bővítménynek a hozzáadása a Home Assistant rendszeredhez meglehető
 Használd ezt a linket:
 
 ```txt
-https://github.com/mefisto/hassio-repository-addon
+https://github.com/energysmarthome/hassio-repository-addon
 ```
 
 ## Ez a repo a következő addonokat tartalmazza:
